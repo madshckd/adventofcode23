@@ -9,7 +9,9 @@ import (
 )
 
 var expected_S = [3]int64{12, 13, 14} /* expected values to find possible subset */
+var min_C [3]int64      /* to hold minimum number cubes required in each game */
 var bag_G [3]int64      /* to hold subset color value */
+var sum_P int64         /* to hold sum of all powers (product of min cubes required in each game) */
 var sum_G int64         /* to hold sum of all gameid that are feasible */
 var test_P int64        /* to hold possibility test value which should 
                         be equal to count(subsets) for true */
@@ -23,7 +25,8 @@ func toInt(numstr string) int {
 /* function to parse subsets to find it's possibility */
 func possible_S(subsets []string, gameid int) {
 
-    test_P = 0
+    test_P = 0          /* reset */
+    min_C = [3]int64{}
 
     /* iterates each subset for the given game id */
     for set := 0; set < len(subsets); set++ {
@@ -44,6 +47,14 @@ func possible_S(subsets []string, gameid int) {
             } else {
                 bag_G[2] = int64(toInt(cube[1]))
             }
+
+            /* iterates values of each subset to get max values of each color */
+            /* which inturn can be used to find minimum required no.of cubes for each game */
+            for c := 0; c < 3; c++ {
+                if bag_G[c] > min_C[c] {
+                    min_C[c] = bag_G[c]
+                }
+            }
         }
 
         /* checks a subset of a game to test it's possibility to hold expected value */
@@ -61,6 +72,10 @@ func possible_S(subsets []string, gameid int) {
     if test_P == int64(len(subsets)) {
         sum_G += int64(gameid)
     }
+
+    /* sum of all powers for part two computation */
+    /* power is computed as product of minimum cubes required in each game */
+    sum_P += (min_C[0] * min_C[1] * min_C[2])
 }
 
 /* function to parse input values of each game */
@@ -90,5 +105,7 @@ func main() {
         parse_G(scanner.Text())
     }
 
+    /* displaying results */
     fmt.Println("Part one (result) sum of possible game ids : ", sum_G)
+    fmt.Println("Part two (result) sum of all powers : ", sum_P)
 }
