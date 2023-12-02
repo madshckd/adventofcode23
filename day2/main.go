@@ -8,6 +8,9 @@ import (
 	"strings"
 )
 
+/* below mentioned arrays follows the same structure
+[ R, G, B ]
+*/
 var expected_S = [3]int64{12, 13, 14} /* expected values to find possible subset */
 var min_C [3]int64      /* to hold minimum number cubes required in each game */
 var bag_G [3]int64      /* to hold subset color value */
