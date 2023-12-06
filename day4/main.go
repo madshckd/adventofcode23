@@ -9,8 +9,19 @@ import (
 	"strings"
 )
 
+/* global variables 
+
+cards_W => collection of winning cards
+cards_P => collection of playable cards
+total_P => total points (part one result)
+total_I => total instances (part two result)
+points_C => holds points for each cards
+
+*/
+
 var cards_W, cards_P [][]int
-var total_P int
+var total_P, total_I int
+var points_C []int
 
 /* function to convert string to integer */
 func change_S(str string) int {
@@ -18,6 +29,33 @@ func change_S(str string) int {
     return num
 }
 
+/* 
+function to find total instances
+based on matches found (winning cards)
+*/
+    
+func instances_A() {
+    instances_C := make([]int, len(cards_W))
+
+    /* iterating through points from each cards
+        to add instances of card copies in 
+        following cards */
+
+    for pos := 0; pos < len(instances_C); pos++ {
+        instances_C[pos]++
+        for iter := 0; iter < instances_C[pos]; iter++ {
+            for ele := pos + 1; ele <= (pos + (points_C[pos])); ele++ {
+                instances_C[ele]++
+            }
+        }
+
+        /* displaying part two result */
+        total_I += instances_C[pos]
+    }
+}
+
+/* function to found match in playable card against winning cards
+    binary search implementation */
 func found_C(line, pos int) bool {
     target := cards_W[line][pos]
 
@@ -40,7 +78,9 @@ func found_C(line, pos int) bool {
 /* function to iterate winning cards over playable cards
     to find points */
 func points_W() {
+    matches_C := 0
     points := 0
+    /* finding matches to calculate points */
     line := (len(cards_W) - 1);
     for pos := 0; pos < len(cards_W[line]); pos++ {
         if found_C(line, pos) {
@@ -49,10 +89,14 @@ func points_W() {
             } else {
                 points++
             }
+            matches_C++
         }
     }
 
     total_P += points
+    /* following is used for part two */
+    /* to know winning matches to produce card copies */
+    points_C = append(points_C, matches_C)
 }
 
 /* function to convert string slice to integer slice and sort them*/
@@ -67,8 +111,10 @@ func arrange_C(cards []string, side_D bool) {
         }
     }
 
+    /* sorting */
     slices.Sort(temp)
 
+    /* default is winning card allocation for boolean value true */
     if side_D {
         cards_W = append(cards_W, temp)
     } else {
@@ -81,9 +127,12 @@ func parse_L(line string) {
     temp := strings.Split(line, ":")
     cards := strings.Split(temp[1], "|")
 
+    /* just stripping all other useless contents */
+
     arrange_C((strings.Split(strings.Trim(cards[0], " "), " ")), true)
     arrange_C((strings.Split(strings.Trim(cards[1], " "), " ")), false)
 
+    /* calculate points for every matches of winning cards */
     points_W()
 }
 
@@ -109,6 +158,11 @@ func main() {
         parse_L(scanner.Text())
     }
 
-    /*total points for part one */
+    /* for part two -> to calculate number of instances */
+    instances_A()
+
+    /* displaying results */
     fmt.Println("Part One Result : ", total_P)
+    fmt.Println("Part Two Result : ", total_I)
+
 }
