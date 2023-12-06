@@ -15,7 +15,7 @@ cards_W => collection of winning cards
 cards_P => collection of playable cards
 total_P => total points (part one result)
 total_I => total instances (part two result)
-points_C => holds points for each cards
+points_C => holds points(number of matches) for each cards
 
 */
 
