@@ -24,7 +24,7 @@ var tags = []string{"seed-to-soil map:",
                      "humidity-to-location map:" }
 
 /* function to match seeds with respective required soil, light so on */
-func interpret_S(input []int, status_E bool) int {
+func interpret_S(status_E bool) int {
     location_S = 0 
 
     /* for extended seed number inputs */
@@ -33,9 +33,9 @@ func interpret_S(input []int, status_E bool) int {
 
         /* first value is source and following 
            value is range to extend seed input */
-        for s := 0; s < len(input); s++ {
+        for s := 0; s < len(seeds); s++ {
             if s % 2 == 0 {
-                for r := input[s]; r < (input[s] + input[s+1]); r++ {
+                for r := seeds[s]; r < (seeds[s] + seeds[s+1]); r++ {
                     iterate_M(r, instance)
                     instance++
                 }
@@ -45,8 +45,8 @@ func interpret_S(input []int, status_E bool) int {
         }
     } else {
         /* for non-expanding seed number inputs */
-        for s  := 0 ; s < len(input); s++ {
-            iterate_M(input[s], s)
+        for s  := 0 ; s < len(seeds); s++ {
+            iterate_M(seeds[s], s)
         }
     }
 
@@ -115,6 +115,7 @@ func clean_S(dest int, line string) {
            refer tags []string for information 
            on headings */
         maps_L[dest] = append(maps_L[dest], temp)
+        /* dest depends on tags order < refer above > */
     }
 
 }
@@ -159,7 +160,7 @@ func main() {
 
     /* displaying results */
     /* for both normal seed input and also expanded one */
-    fmt.Println("Part one result (smallest location) : ", interpret_S(seeds, false))
-    fmt.Println("Part two result (smallest location) expanded edition : ", interpret_S(seeds, true))
+    fmt.Println("Part one result (smallest location) : ", interpret_S(false))
+    fmt.Println("Part two result (smallest location) expanded edition : ", interpret_S(true))
 
 }
