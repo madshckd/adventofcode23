@@ -1,0 +1,1548 @@
+doing horizontal checkup for a pattern
+checked against  :  ##..#....#..#..  and  #....#...#..#..
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+46  and  46
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+46  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .#..#.#.##.#.#.  and  .#.##..####..##
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  35
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  .##....  and  ...#..#
+doing vertical checkup for a pattern
+checked against col :  3  and  4
+46  and  35
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+46  and  46
+35  and  46
+35  and  35
+35  and  35
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ....#.#.#..#.  and  #..##..##..##
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+46  and  46
+46  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  .##....  and  #..####
+doing vertical checkup for a pattern
+checked against col :  3  and  4
+46  and  46
+35  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+35  and  35
+46  and  46
+35  and  46
+35  and  46
+46  and  35
+35  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  #.##.#..#.##.#.  and  ..#####.##.###.
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+46  and  46
+46  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ....##..#  and  ####.##..
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  35
+35  and  35
+35  and  46
+46  and  35
+46  and  46
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ###.#.#..#.##.#..  and  ##...#.#.######.#
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  46
+35  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .##.##.##  and  ##.##.###
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #...####.  and  #...####.
+got it :  7
+doing horizontal checkup for a pattern
+checked against  :  ###.#....#.##  and  ..#...##...#.
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+yeah vertical match :  7
+doing horizontal checkup for a pattern
+checked against  :  #.#######.#...##.  and  #.###..#.##.##.#.
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  46
+46  and  46
+35  and  46
+35  and  46
+35  and  35
+46  and  35
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+35  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  .#.##...#  and  ..#....##
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+35  and  46
+46  and  46
+46  and  46
+35  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ###.#......  and  ##....#..#.
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #.#.#.###...##...  and  .#...#..##.####.#
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  35
+35  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .####.#########  and  ....#..########
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  35
+46  and  46
+35  and  46
+35  and  35
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ..###.#.#  and  #####..#.
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+35  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .##########  and  .#....##..#
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  46
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+35  and  35
+46  and  35
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##.#....##...  and  ##...###..###
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  46
+35  and  46
+35  and  46
+46  and  46
+35  and  35
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  .##....#.####.#  and  ###.##.########
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  35
+35  and  35
+35  and  35
+46  and  46
+35  and  46
+46  and  46
+35  and  35
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  .#.#...##.#..#.  and  #..........##..
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+46  and  46
+46  and  35
+35  and  46
+35  and  35
+35  and  35
+46  and  46
+35  and  46
+35  and  46
+35  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .#.#...##..  and  ##...######
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+46  and  46
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  #.#....#.####  and  #....#...####
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  35
+35  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+35  and  46
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #.#.#...#..  and  .###.#.#...
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  46
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ####.#...#.#...  and  ##.#..##.#.#.#.
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+35  and  46
+46  and  46
+35  and  46
+35  and  46
+46  and  46
+35  and  46
+46  and  35
+46  and  46
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .#..##..##..#..#.  and  ##...####...####.
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+35  and  46
+46  and  35
+46  and  35
+35  and  35
+35  and  46
+46  and  46
+35  and  46
+46  and  35
+35  and  35
+35  and  46
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+35  and  46
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##.####.###..#.  and  .#..##..#...##.
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+46  and  35
+46  and  46
+46  and  35
+35  and  35
+35  and  46
+35  and  35
+46  and  35
+46  and  35
+35  and  46
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  .##........##  and  .#.#.#..#.#.#
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+46  and  46
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+yeah vertical match :  7
+doing horizontal checkup for a pattern
+checked against  :  ...#.##.#....  and  .##..##..##..
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+46  and  46
+35  and  35
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+46  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##.#####...####..  and  ..###..#.###.....
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+35  and  46
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  ..#...#########  and  #..####..#..#..
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  46
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ...##.###.###.#  and  .##....#.###.##
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+35  and  46
+35  and  35
+35  and  46
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  #..##..##  and  ##.#..#..
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  35
+46  and  35
+46  and  46
+46  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+35  and  46
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .#...##..##  and  #.#########
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  46
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #..###....#..#.  and  #..###....#..#.
+got it :  4
+doing horizontal checkup for a pattern
+checked against  :  ..#........  and  ####.##.##.
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  35
+35  and  46
+35  and  35
+46  and  46
+46  and  46
+46  and  46
+35  and  35
+35  and  46
+35  and  35
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##..##.####  and  ..####.#...
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  46
+35  and  35
+46  and  46
+35  and  46
+35  and  35
+46  and  46
+35  and  46
+35  and  46
+46  and  46
+46  and  46
+35  and  46
+35  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ..##...#.#..#.#  and  #.#.#...###.###
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+46  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  .#####.##.##.  and  ###.#.####.#.
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+46  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##.##.####....###  and  .#.##.#.##....##.
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+35  and  35
+46  and  35
+46  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ###.#......  and  ###.#......
+got it :  6
+doing horizontal checkup for a pattern
+checked against  :  #..#..#..##.##.##  and  #.##..##.#....#.#
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+35  and  46
+35  and  35
+46  and  35
+35  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ..###..#.#...  and  ..#..#.##....
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  35
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .#.#.##.#  and  ##...##..
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+35  and  46
+46  and  35
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #..##..###.  and  #..#..###..
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  46
+46  and  35
+46  and  35
+46  and  35
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #...#.#..##  and  #...##.####
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  35
+46  and  35
+46  and  46
+46  and  35
+35  and  46
+46  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  #.###.#.#..#...  and  .....##.#######
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  35
+35  and  35
+35  and  35
+46  and  35
+46  and  35
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ..##.#..#.#....  and  ##..####...###.
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  35
+46  and  46
+46  and  35
+46  and  46
+35  and  35
+46  and  46
+46  and  35
+35  and  46
+46  and  46
+46  and  35
+35  and  35
+46  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .##.#.#..##.#..  and  .#...##.#...###
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  35
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+35  and  46
+46  and  46
+46  and  35
+46  and  35
+46  and  46
+35  and  46
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##..###  and  .####.#
+doing vertical checkup for a pattern
+checked against col :  3  and  4
+46  and  35
+46  and  46
+46  and  35
+35  and  46
+46  and  35
+35  and  35
+46  and  46
+46  and  35
+35  and  35
+46  and  46
+35  and  35
+46  and  46
+35  and  46
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  #.#..#.#..####.  and  ##....###..##..
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  35
+35  and  35
+35  and  46
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+35  and  46
+35  and  35
+46  and  35
+46  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ...###..###..  and  .....#..#....
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+yeah vertical match :  7
+doing horizontal checkup for a pattern
+checked against  :  ......###.##.  and  .####..#####.
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+46  and  35
+46  and  46
+35  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##...#.##  and  .#...##..
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+46  and  46
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .##.###..........  and  #####.#.#.##.###.
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  46
+35  and  46
+35  and  46
+46  and  46
+35  and  35
+46  and  46
+35  and  46
+35  and  35
+35  and  46
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ..##.##.##....#  and  #..#....#..##..
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  #....#..##.#.  and  .####.#....#.
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  46
+35  and  46
+46  and  35
+46  and  46
+46  and  46
+35  and  46
+35  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  .##..####..  and  .##..#..#..
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  46
+46  and  46
+35  and  46
+46  and  35
+35  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #..##..##  and  ...##....
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  46
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+35  and  35
+35  and  46
+46  and  46
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+35  and  35
+35  and  35
+35  and  46
+46  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ......##.#.#.  and  ..#......##.#
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+46  and  46
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+46  and  46
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ...#.###.#.  and  #.##.##..#.
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  35
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  ..#.####.##.#  and  .#....#######
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  35
+35  and  46
+46  and  35
+46  and  46
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+46  and  35
+46  and  46
+46  and  35
+35  and  46
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #.#.#######  and  ##.##.#.#..
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  35
+46  and  35
+35  and  35
+46  and  46
+46  and  46
+46  and  46
+46  and  46
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .#.#....##....#  and  #####........##
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  46
+35  and  46
+46  and  35
+35  and  46
+46  and  46
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+35  and  46
+35  and  46
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##.##.#.##.#..#  and  #..##..#....#.#
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  35
+35  and  46
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##..#..##  and  ..##.#.#.
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  35
+35  and  35
+35  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+35  and  35
+35  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ###.#####..####  and  ..##...#.######
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  35
+46  and  46
+35  and  46
+35  and  35
+35  and  46
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  46
+35  and  35
+35  and  46
+46  and  46
+35  and  35
+46  and  35
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .#####..###  and  .###......#
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  35
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+35  and  46
+46  and  46
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  .....###.  and  ####.....
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .######.#  and  ##.##.##.
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  46
+46  and  46
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+35  and  35
+35  and  46
+46  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ####..####..#  and  #.#..#....#..
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  35
+35  and  46
+35  and  35
+46  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  .##.#..#..##.##.#  and  ..####....#......
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #####.#......  and  .##.#..##.##.
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+35  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##.#.#.#...  and  ####.##...#
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  35
+46  and  35
+35  and  46
+46  and  35
+35  and  46
+35  and  46
+46  and  46
+46  and  46
+35  and  46
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+35  and  46
+46  and  46
+46  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  #.##.#.#.##.###.#  and  ........#..#.....
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  35
+35  and  46
+46  and  35
+46  and  46
+35  and  46
+46  and  46
+35  and  35
+46  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+46  and  46
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ..###.####.##..  and  #...##...#..#.#
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+46  and  35
+35  and  35
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ..#.....##.....  and  .#####.#..#.###
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+46  and  35
+35  and  46
+35  and  35
+46  and  35
+35  and  46
+46  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##.#.#..##.  and  ##.#.#..##.
+got it :  5
+doing horizontal checkup for a pattern
+checked against  :  #.#..#.#.##..  and  .######.#.#..
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+46  and  35
+46  and  46
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  #..###..###  and  ..##..##..#
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+35  and  35
+46  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  .....#..#  and  ####.#..#
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+35  and  46
+35  and  46
+46  and  35
+35  and  35
+35  and  46
+35  and  46
+46  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  46
+35  and  46
+46  and  46
+35  and  35
+46  and  35
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #.####..###.#  and  ..###.#######
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+46  and  46
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+46  and  46
+46  and  35
+46  and  35
+46  and  46
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #...#####....  and  ##..#......#.
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  46
+46  and  35
+46  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##.#.#...  and  .##.#####
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  35
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .....#.##  and  ..#####.#
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  46
+35  and  35
+46  and  35
+46  and  35
+35  and  35
+35  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #..##..##  and  ....####.
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  #######.###.##.##  and  #....##.##......#
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  46
+46  and  46
+46  and  35
+35  and  46
+46  and  46
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+35  and  46
+46  and  35
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  .####.#.##.#..#..  and  .......#.#.#..#.#
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  35
+46  and  35
+35  and  46
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  #..#....#  and  #..#....#
+got it :  4
+doing horizontal checkup for a pattern
+checked against  :  ..##..#  and  #.##.##
+doing vertical checkup for a pattern
+checked against col :  3  and  4
+46  and  35
+46  and  46
+46  and  46
+46  and  35
+35  and  46
+35  and  46
+35  and  46
+46  and  46
+46  and  35
+46  and  46
+46  and  46
+doing horizontal checkup for a pattern
+checked against  :  ####.#...  and  ...#.#..#
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+35  and  46
+46  and  35
+46  and  35
+46  and  46
+46  and  46
+46  and  46
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+35  and  46
+35  and  46
+46  and  46
+46  and  46
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  ##.#.#.#.###...#.  and  .##.#####.##..#..
+doing vertical checkup for a pattern
+checked against col :  8  and  9
+46  and  35
+35  and  46
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  46
+doing horizontal checkup for a pattern
+checked against  :  #....##.#  and  #.##.#...
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+46  and  35
+46  and  35
+35  and  46
+46  and  46
+46  and  35
+46  and  35
+46  and  35
+46  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  .########.###.#  and  .##....##.#....
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  35
+46  and  46
+46  and  35
+35  and  35
+35  and  35
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##...######  and  #####.####.
+doing vertical checkup for a pattern
+checked against col :  5  and  6
+46  and  35
+46  and  46
+35  and  46
+35  and  35
+46  and  35
+35  and  35
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ##...##...###  and  .#..####..#..
+doing vertical checkup for a pattern
+checked against col :  6  and  7
+35  and  46
+35  and  35
+35  and  46
+35  and  35
+46  and  46
+35  and  46
+35  and  35
+46  and  46
+35  and  46
+46  and  46
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #######..  and  ......###
+doing vertical checkup for a pattern
+checked against col :  4  and  5
+35  and  35
+46  and  46
+35  and  46
+35  and  46
+35  and  46
+35  and  35
+46  and  46
+35  and  35
+35  and  46
+35  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  ..###.##.###..#  and  ##.#.#..#.#.###
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+46  and  46
+46  and  46
+46  and  35
+35  and  46
+46  and  35
+35  and  35
+35  and  46
+46  and  46
+35  and  46
+46  and  35
+35  and  46
+35  and  35
+35  and  46
+35  and  35
+46  and  46
+46  and  46
+35  and  35
+doing horizontal checkup for a pattern
+checked against  :  .#..###.###..##  and  #..###..#######
+doing vertical checkup for a pattern
+checked against col :  7  and  8
+35  and  35
+46  and  46
+35  and  46
+46  and  35
+46  and  35
+46  and  35
+46  and  35
+doing horizontal checkup for a pattern
+checked against  :  #..###.  and  ####.#.
+doing vertical checkup for a pattern
+checked against col :  3  and  4
+35  and  46
+35  and  35
+46  and  46
+35  and  35
+46  and  46
+46  and  35
+35  and  35
+35  and  35
+35  and  46
+46  and  35
+35  and  46
+46  and  35
+35  and  46
+46  and  46
+46  and  46
+2621
